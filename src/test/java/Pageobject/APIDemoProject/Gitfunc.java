@@ -12,6 +12,10 @@ public void getSleep() {
 		System.out.println("Kartik is sleeping");
 	}
 
+public void getlet() {
+		
+		System.out.println("Kartik is letting");
+	}
 public void getDrink() {
 	
 	System.out.println("Kartik is drinking");
